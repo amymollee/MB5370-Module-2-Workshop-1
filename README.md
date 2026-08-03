@@ -1,4 +1,4 @@
-# MB5370-Module-2-Workshop-1
+# MB5370 Module 2 Workshop 1
 
 Workshop 1: Foundations of data science begins with building off the skill learnt in Module 1 with a focus on preparing raw data to reveal underlying biological patterns. The workshop begins with importing data from various formats using tidyverse and readxl. 
  
