@@ -7,4 +7,5 @@ Using the palmerpenguins dataset, the workshop covered key inspection functions 
 Overall, the workshop demonstrates a full workflow from raw data import to polished visualisation and reinforced manual coding skills. 
  
 Reflection on the AI-Off Phase
+
 Coding without Copilot or chattr forced me to actually read and trace console error messages myself, rather than relying on AI suggestions to fix them. This made me pay closer attention to variable classes and data structures, particularly when comparing the base R data frame (benthic_cover_df) with the tidyverse tibble (benthic_cover). Printing both side by side showed clear differences. The tibble displayed a condensed preview with labelled data types, while the data frame printed all rows and columns in full without type labels, feeling clunkier for larger datasets. Working through these distinctions manually, rather than having them explained by an AI tool, slowed my pace but deepened my understanding of how R actually handles and represents data.
